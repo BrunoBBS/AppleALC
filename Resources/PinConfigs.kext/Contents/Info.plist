@@ -1434,6 +1434,23 @@
 					<key>AFGLowPowerState</key>
 					<data>AwAAAA==</data>
 					<key>Codec</key>
+					<string>ALC236 for DELL Vostro 5481 by BrunoBBS</string>
+					<key>CodecID</key>
+					<integer>283902518</integer>
+					<key>ConfigData</key>
+					<data>ASccAAEnHQABJx4AAScfQAHXHAUB1x2bAdceRgHXH0ABRxwQAUcdAQFHHhcBRx+QAhccIAIXHRACFx4hAhcfBAIXDAIBlxwwAZcdAQGXHqcBlx+QAXcc8AF3HREBdx4RAXcfQQGHHPABhx0RAYceEQGHH0EBpxzwAacdEQGnHhEBpx9BAbcc8AG3HREBtx4RAbcfQQHnHPAB5x0RAeceEQHnH0EBRwwC</data>					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>48</integer>
+					<key>WakeConfigData</key>
+					<data>AUcMAgIXDAIBlwcl</data>
+					<key>WakeVerbReinit</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<data>AwAAAA==</data>
+					<key>Codec</key>
 					<string>ALC236 for DELL-5488 by Daggeryu</string>
 					<key>CodecID</key>
 					<integer>283902518</integer>
