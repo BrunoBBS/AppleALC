@@ -887,7 +887,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/MacKernelSDK/Library/universal",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				"MACOSX_DEPLOYMENT_TARGET[arch=ACID32]" = 10.4;
 				MODULE_NAME = as.vit9696.AppleALC;
 				MODULE_START = "$(PRODUCT_NAME)_kern_start";
@@ -968,7 +968,7 @@
 				);
 				LLVM_LTO = YES;
 				"LLVM_LTO[arch=ACID32]" = NO;
-				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				"MACOSX_DEPLOYMENT_TARGET[arch=ACID32]" = 10.4;
 				MODULE_NAME = as.vit9696.AppleALC;
 				MODULE_START = "$(PRODUCT_NAME)_kern_start";
